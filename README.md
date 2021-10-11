@@ -1,1 +1,1 @@
-# CoffeeRun_RemoteDataStore
+# CoffeeRun with RemoteDataStore (Firebase)
