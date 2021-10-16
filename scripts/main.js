@@ -4,7 +4,7 @@
     var FORM_SELECTOR = '[data-coffee-order="form"]';
     var CHECKLIST_SELECTOR = '[data-coffee-order="checklist"]'; // Add a variable for the selector that matches the entire checklist area
     // var SERVER_URL = 'http://coffeerun-v2-rest-api.herokuapp.com/api/coffeeorders';
-    var FIREBASE_SERVER_URL = 'https://coffeerun-d31d2-default-rtdb.firebaseio.com';
+    var FIREBASE_SERVER_URL = 'http://coffeerun-d31d2.firebaseapp.com';
 
     var App = window.App;
     var Truck = App.Truck;
